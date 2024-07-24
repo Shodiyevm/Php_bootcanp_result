@@ -1,0 +1,18 @@
+{
+    "name": "mirshod/php_bootcanp_result",
+    "description": "My Notion",
+    "autoload": {
+        "classmap": [
+            "."
+        ]
+    },
+    "authors": [
+        {
+            "name": "shodiyevmirshod",
+            "email": "shodiyevmirshod43@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
